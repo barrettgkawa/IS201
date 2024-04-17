@@ -1,0 +1,65 @@
+.h1{
+    color: rgb(196, 13, 13);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.common{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Header{
+    color: black;
+    height: 100px;
+    line-height: 100px;
+}
+
+.mainbody{
+    background-color: whitesmoke;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+.footer{
+    position: fixed;
+    background-color:rgb(247, 244, 237);
+    bottom: 0px;
+    right: 10px;
+    left: 10px;
+    height: 25px;
+    font-size: 10px;
+    line-height: 25px;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
+
+nav{
+    background-color: rgb(107, 151, 255);
+    padding: 10px;
+    overflow: hidden;
+}
+
+nav a{
+    padding: 15px;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+
+nav a:hover{
+    background-color: rgb(43, 80, 226);
+}
+
+ul{
+    list-style-position: inside;
+}
+
+ol{
+    list-style-position: inside;
+}
